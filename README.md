@@ -1,2 +1,2 @@
 # PowerBI-RemoteWork-Analysis
-An interactive analytics dashboard that analyzes remote work data to measure employee productivity and burnout risk, tracking work hours, task completion, and engagement to support better decisions.
+An interactive Power BI dashboard analyzing remote, hybrid, and onsite work models to assess employee productivity, burnout, satisfaction, and well-being using KPIs, slicers, and advanced visualizations for data-driven workforce insights.
